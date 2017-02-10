@@ -1,0 +1,7 @@
+d:\Projects\cs\MAC_Slider_C_Sharp_src\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+d:\Projects\cs\MAC_Slider_C_Sharp_src\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+d:\Projects\cs\MAC_Slider_C_Sharp_src\MACTrackBarLib\obj\Debug\XComponent.SliderBar.MACTrackBar.resources
+d:\Projects\cs\MAC_Slider_C_Sharp_src\MACTrackBarLib\obj\Debug\MACTrackBarLib.csproj.GenerateResource.Cache
+d:\Projects\cs\MAC_Slider_C_Sharp_src\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+d:\Projects\cs\MAC_Slider_C_Sharp_src\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+d:\Projects\cs\MAC_Slider_C_Sharp_src\MACTrackBarLib\obj\Debug\MACTrackBarLib.Properties.Resources.resources

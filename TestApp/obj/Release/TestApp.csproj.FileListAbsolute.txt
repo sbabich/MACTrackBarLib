@@ -1,0 +1,10 @@
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\bin\Release\TestApp.exe
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\bin\Release\MACTrackBarLib.dll
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Release\TestApp.macSlider_Demo.resources
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Release\TestApp.csproj.GenerateResource.Cache
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Release\TestApp.exe
+d:\Projects\cs\MacTrackBarLib\TestApp\obj\Release\TestApp.exe
+d:\Projects\cs\MacTrackBarLib\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache
+d:\Projects\cs\MacTrackBarLib\TestApp\obj\Release\TestApp.macSlider_Demo.resources
+d:\Projects\cs\MacTrackBarLib\TestApp\obj\Release\TestApp.csproj.GenerateResource.Cache

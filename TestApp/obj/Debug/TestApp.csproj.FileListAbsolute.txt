@@ -1,0 +1,11 @@
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\bin\Debug\TestApp.exe
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\bin\Debug\TestApp.pdb
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\bin\Debug\MACTrackBarLib.dll
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\bin\Debug\MACTrackBarLib.pdb
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Debug\TestApp.macSlider_Demo.resources
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Debug\TestApp.exe
+d:\Projects\cs\MAC_Slider_C_Sharp_src\TestApp\obj\Debug\TestApp.pdb
+D:\Projects\cs\MacTrackBarLib\TestApp\obj\Debug\TestApp.exe
+D:\Projects\cs\MacTrackBarLib\TestApp\obj\Debug\TestApp.pdb
